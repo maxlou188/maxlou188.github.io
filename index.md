@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Maximilian Lou
 
 You can use the [editor on GitHub](https://github.com/maxlou188/maxlou188.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
